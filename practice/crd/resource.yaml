@@ -1,0 +1,10 @@
+kind: DevOps
+apiVersion: ram0403.com/v1
+metadata:
+  name: june
+spec:
+  name: Devops-Practioner
+  duration: "3months"
+  platform: GCP
+  mode: Live
+  

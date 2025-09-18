@@ -1,0 +1,5 @@
+.minikube/
+*.tar
+*.lz4
+.cache/
+.local/
